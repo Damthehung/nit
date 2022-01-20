@@ -1,6 +1,6 @@
 {
     "data":{
-    "1":"Chớ nghe lời phỉnh tiếng phờ\nThò tay vào lờ, mắc kẹt cái hom",
+    "1":"có cc nè",
     "2":"Măng chua nấu cá ngạch nguồn\nSự đời đắp đổi, khi buồn khi vui.",
     "3":"Yêu nhau xé lụa may quần\nGhét nhau kể nợ kể nần nhau ra",
     "4":"Ai ơi chớ vội cười nhau\nCây nào mà chẳng có sâu chạm cành",
