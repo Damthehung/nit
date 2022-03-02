@@ -1,0 +1,4 @@
+{
+ "msg": "[ STT: 1 ]\n[ Item: Dao Chuyên Dụng ]\n[ Độ Bền: 100 ]\n[ Tầm Đánh : Tầm Gần$ ]\n=========================\n[ STT: 2 ]\n[ Item: Katana Gia Truyền ]\n[ Độ Bền: 100 ]\n[ Tầm Đánh : Tầm Gần$ ]\n=========================\n[ STT: 3 ]\n[ Item: Súng Ngắn ]\n[ Độ Bền: 100 / Số Đạn: 12 ]\n[ Tầm Đánh : Tầm Xa$ ]\n=========================\n[ STT: 4 ]\n[ Item: Colt Python ]\n[ Độ Bền: 100 / Số Đạn: 6 ]\n[ Tầm Đánh : Tầm Xa$ ]\n=========================\n[ STT: 5 ]\n[ Item: AK47 ]\n[ Độ Bền: 100 / Số Đạn: 42 ]\n[ Tầm Đánh : Mạnh$ ]\n=========================\n[ STT: 6 ]\n[ Item: SCAR SƠN MÀU ]\n[ Độ Bền: 100 / Số Đạn: 42 ]\n[ Tầm Đánh : Mạnh$ ]\n=========================\n[ STT: 7 ]\n[ Item: M416 ]\n[ Độ Bền: 100 / Số Đạn: 42 ]\n[ Tầm Đánh : Mạnh$ ]\n=========================\n",
+ "count": "7"
+}
