@@ -36,7 +36,7 @@ echo "[!] Đã cài đặt file manager thành công [!]"
 
 echo "==============================================="
 echo "Cài đặt hoàn tất! Hãy sửa file config.json, thêm appstate ở cửa sổ sau."
-echo "Toàn bộ thư mục của bot được lưu tại '/home/miraiv2'"
+echo "Toàn bộ thư mục của bot được lưu tại '/home/miraiv2-main'"
 echo "Nhấn enter để mở file manager."
 read
 
